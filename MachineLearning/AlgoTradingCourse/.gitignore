@@ -1,0 +1,7 @@
+
+my_secrets.py
+info.txt
+
+__pycache__/
+.ipynb_checkpoints/
+
